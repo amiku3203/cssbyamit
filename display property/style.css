@@ -1,0 +1,21 @@
+/* div{
+    color: red;
+    font-size: 100px;
+    height: 200px;
+    width: 200px;
+}
+span{
+    color: red;
+    font-size: 100px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+} */
+div{
+    background-color: red;
+    display: inline;
+}
+span{
+    background-color: cyan;
+    display: block;
+}

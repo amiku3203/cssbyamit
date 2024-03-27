@@ -1,0 +1,34 @@
+/* * {
+  margin: 0;
+  border: 2px solid black;
+} */
+.one {
+  background-color: red;
+}
+
+.two {
+  color: violet;
+}
+#once {
+  background: thistle;
+}
+section * {
+  border: 2px solid black;
+}
+
+div.hello {
+  background: red;
+}
+
+div p {
+  color: rgb(30, 0, 255);
+}
+
+/* imediate childrem */
+/* div>p{
+
+} */
+
+a[href="one"] {
+    color: red;
+}

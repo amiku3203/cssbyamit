@@ -1,0 +1,12 @@
+:root{
+  --primary-color: teal;
+  --fontSize:2rem;
+  --bg-color:red;
+}
+
+h1{
+    color: var(--primary-color);
+    font-size: var(--fontSize);
+    background: var(--bg-color);
+    display: inline;
+}

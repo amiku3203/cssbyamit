@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+div{
+height: 100vh;
+background-color: yellow;
+background-image: url("https://media.istockphoto.com/id/1308745594/photo/unheralded.jpg?s=612x612&w=is&k=20&c=A3DKgg1Y85dWJqYlZnbtFgKm7_8JtXJF8Y8q9oNNPkU=");
+background-repeat:no-repeat;
+background-size: cover;
+background-position: right;
+background-attachment: fixed;
+
+}

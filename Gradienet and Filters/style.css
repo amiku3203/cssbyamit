@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+
+div {
+  background-image: linear-gradient(rgba(255, 0, 0, 0.298), rgba(77,101,208,0.45)),
+    url(https://imgs.search.brave.com/NMeCZ50x3oy7Q0oHdGGjHLXVq97lc0HUcWHCHZKB1A0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9idXJz/dC5zaG9waWZ5Y2Ru/LmNvbS9waG90b3Mv/cmVkLWZvaWxlZC1o/ZWFydHMtb24tYS1w/aW5rLWJhY2tncm91/bmQuanBnP3dpZHRo/PTEwMDAmZm9ybWF0/PXBqcGcmZXhpZj0w/JmlwdGM9MA);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* filter: blur(10px); */
+  /* filter: brightness(0%); */
+  /* filter: contrast(80%); */
+  /* filter: grayscale(80%); */
+filter: saturate(19%);
+}
